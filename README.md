@@ -4,4 +4,6 @@ Some description!
 
 ## Subheader
 
-Watch tutorial on Youtube d
+Watch tutorial on Youtube
+Feature two
+Feature three
