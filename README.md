@@ -5,6 +5,6 @@ Some description!
 ## Subheader
 
 Watch tutorial on Youtube
-Feature two
-Feature three
-Feature four
+Feature 1
+Feature 2
+Feature 3
